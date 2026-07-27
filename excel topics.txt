@@ -1,0 +1,4 @@
+Excel first lecture,
+
+EX1: Exploring DMart Sales Data & Understanding Key Fields
+---------------------------------
