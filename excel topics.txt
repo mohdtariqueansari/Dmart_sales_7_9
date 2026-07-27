@@ -2,3 +2,13 @@ Excel first lecture,
 
 EX1: Exploring DMart Sales Data & Understanding Key Fields
 ---------------------------------
+
+next lab preparation: 27/07/2026
+Topic : Calculating Revenue and Key Business Metrics in Excel
+
+1) Introduction to Excel
+
+2) Exploring Excel Formulas and Functions
+3) Tracing Precedents and Dependents
+4) Formula Referencing (Relative, Absolute, Mixed Reference)
+
