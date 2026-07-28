@@ -12,3 +12,11 @@ Topic : Calculating Revenue and Key Business Metrics in Excel
 3) Tracing Precedents and Dependents
 4) Formula Referencing (Relative, Absolute, Mixed Reference)
 
+-------------------------------------
+
+Next-Lab Preparation: 28/07/2026
+Topic : Named Ranges ,Table and Summarization of Data
+
+1)Named Ranges
+2)Insert a Table and Style Options
+3)Consolidation of Data
