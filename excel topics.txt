@@ -7,16 +7,24 @@ next lab preparation: 27/07/2026
 Topic : Calculating Revenue and Key Business Metrics in Excel
 
 1) Introduction to Excel
-
 2) Exploring Excel Formulas and Functions
 3) Tracing Precedents and Dependents
 4) Formula Referencing (Relative, Absolute, Mixed Reference)
 
--------------------------------------
+----------------------------------------------------------
+Topic : Named Ranges & Table Magic
 
-Next-Lab Preparation: 28/07/2026
-Topic : Named Ranges ,Table and Summarization of Data
+1) Names Ranges
 
-1)Named Ranges
-2)Insert a Table and Style Options
-3)Consolidation of Data
+2) Insert a Table & Style Options
+
+3) Consolidation of Data
+---------------------------------------------------------------
+Next-Lab Preparation
+
+Topic : AutoFill Magic and Custom Lists
+
+1)Autofill Series and Flash Fill
+
+2)Creating and Using Custom Lists
+
