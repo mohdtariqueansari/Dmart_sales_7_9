@@ -23,8 +23,11 @@ Topic : Named Ranges & Table Magic
 Next-Lab Preparation
 
 Topic : AutoFill Magic and Custom Lists
-
 1)Autofill Series and Flash Fill
-
 2)Creating and Using Custom Lists
+
+Removing Duplicates,
+Data Validation
+Sparklines
+
 
