@@ -31,3 +31,25 @@ Data Validation
 Sparklines
 
 
+-------------------------------------------------------------
+Module: Logical Functions and Error Handling in Excel
+
+1) IF Function
+
+2) Nested IF conditions
+
+3) Logical Operators(AND, OR, NOT)
+
+4) IFERROR Function
+
+Next-Lab Preparation
+
+Hey! Don't forget to prepare for  next lab
+
+1) SUMIF Function
+
+2) AGGREGATE Function
+
+-------------------------------------------------------------
+
+
